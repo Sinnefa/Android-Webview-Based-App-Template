@@ -14,14 +14,14 @@ Differently from other similar templates you can find out there, I wanted to dev
 # Things to remember
 
 1. Your web app should be mobile friendly. I suggest the following header
-'''
+```
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 <meta name="viewport" content="width=device-width">
-'''
+```
 2. I recomment configuring the <body> tag as follows
-'''
+```
 <body leftmargin=0 topmargin=0 rightmargin=0 bottommargin=0 style="margin:0;" onload="">
-'''
+```
 3. Rename your App package as you prefer
 4. Edit Manifest and configuration files accordingly
