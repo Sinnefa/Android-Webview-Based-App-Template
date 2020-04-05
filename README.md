@@ -4,7 +4,7 @@ This project contains an app template to be used in Android Studio. It is an emp
 
 Differently from other similar templates you can find out there, I wanted to develop this so that it works like an ordinary app. It combines the easiness of web developemnt with Android. This template uses cookies to save variables. This allows you to simply migrate web apps to Android as cookies are generally an easy way to keep session variables.
 
-# Advantage
+# Advantages
 
 1. You can use HTML, Javascript to develop the App as a native Adroid App.
 2. You can use cookies to save variables.
