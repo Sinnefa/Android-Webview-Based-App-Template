@@ -1,5 +1,7 @@
 # Android Webview Based App Template
 
+Make your Android App using HTML and Javascript (Jquery and more)
+
 This project contains an app template to be used in Android Studio. It is an empty app which exploits the Android WebView to offer an easy way to implement Android apps. You can simply create your app using HTML and Javascript, any library or framewark you want. If you are done with your web app, you can just move it in the "assets" directory, compile with Android Studio and you are ready to deploy your app.
 
 Differently from other similar templates you can find out there, I wanted to develop this so that it works like an ordinary app. It combines the easiness of web developemnt with Android. This template uses cookies to save variables. This allows you to simply migrate web apps to Android as cookies are generally an easy way to keep session variables.
