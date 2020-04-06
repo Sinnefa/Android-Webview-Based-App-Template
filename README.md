@@ -27,3 +27,7 @@ Differently from other similar templates you can find out there, I wanted to dev
 ```
 3. Rename your App package as you prefer
 4. Edit Manifest and configuration files accordingly
+  
+# Example App
+Pinguino app was made with this template
+https://play.google.com/store/apps/dev?id=8757649835536160943
