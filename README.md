@@ -30,4 +30,7 @@ Differently from other similar templates you can find out there, I wanted to dev
   
 # Example App
 Pinguino app was made with this template
-https://play.google.com/store/apps/dev?id=8757649835536160943
+https://play.google.com/store/apps/collection/cluster?clp=igM4ChkKEzg3NTc2NDk4MzU1MzYxNjA5NDMQCBgDEhkKEzg3NTc2NDk4MzU1MzYxNjA5NDMQCBgDGAA%3D:S:ANO1ljI2tAs&gsr=CjuKAzgKGQoTODc1NzY0OTgzNTUzNjE2MDk0MxAIGAMSGQoTODc1NzY0OTgzNTUzNjE2MDk0MxAIGAMYAA%3D%3D:S:ANO1ljLsy8Q
+
+Web app: http://www.sinnefa.com/pinguino/
+
