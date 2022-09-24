@@ -55,6 +55,8 @@ public class Main extends Activity {
 		webView.getSettings().setJavaScriptEnabled(true);
 		webView.getSettings().setDomStorageEnabled(true);
 		webView.getSettings().setCacheMode(WebSettings.LOAD_DEFAULT);
+		webView.getSettings().setAllowFileAccessFromFileURLs(true);
+		webView.getSettings().setAllowUniversalAccessFromFileURLs(true);
 
 		CookieManager.setAcceptFileSchemeCookies(true);
 
